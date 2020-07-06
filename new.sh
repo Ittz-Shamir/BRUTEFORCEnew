@@ -56,7 +56,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
+git clone https://github.com/Ittz-Shamir/fbbrute
 cd fbbrute
 php fb.php
 fi
@@ -66,7 +66,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+git clone https://github.com/Ittz-Shamir/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -76,7 +76,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IqbalzNoobs/fb-brute
+git clone https://github.com/Ittz-Shamir/fb-brute
 cd fb-brute
 python2 brute.py
 fi
@@ -86,7 +86,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/mbf
+git clone https://github.com/Ittz-Shamir/mbf
 cd mbf
 python2 MBF.py
 fi
@@ -96,7 +96,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/N1ght420/FaceBrute
+git clone https://github.com/Ittz-Shamir/FaceBrute
 cd FaceBrute
 python fb.py
 fi
@@ -106,7 +106,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/facebash.git
+git clone https://github.com/Ittz-Shamir/facebash.git
 cd facebash
 bash facebash.sh
 fi
@@ -116,7 +116,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/EmailVuln
+git clone https://github.com/Ittz-Shamir/EmailVuln
 cd EmailVuln
 python2 vuln.py
 fi
@@ -126,7 +126,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/ProfileGuardFb
+git clone https://github.com/Ittz-Shamir/ProfileGuardFb
 cd ProfileGuardFb
 php guard.php
 fi
@@ -136,7 +136,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report
+git clone https://github.com/Ittz-Shamir/Report
 cd Report
 unzip Report.zip
 python2 Report.py
